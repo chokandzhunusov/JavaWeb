@@ -1,2 +1,8 @@
+com/example/myapplication/user/MainController.class
 Example.class
+com/example/myapplication/customer/CustomerRepository.class
+com/example/myapplication/user/UserRepository.class
+com/example/myapplication/customer/CustomerController.class
 com/example/myapplication/Application.class
+com/example/myapplication/customer/Customer.class
+com/example/myapplication/user/User.class
